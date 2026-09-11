@@ -1,38 +1,37 @@
+# Hi, I'm Parth Dehare
 
-**About Me**
-- 🎓 I’m a second-year **CSE (AI/ML)** student with a strong interest in solving real-world problems through technology.  
-- 🌱 Currently learning **Python** and deepening my knowledge in **AI/ML** domains.  
+Final-year AI/ML engineering student building deployable machine learning and robust backend applications. 
 
-**Skills**  
-- **💻 Programming Languages:**  
-  • Python  
-  • Java  
-  • C++  
-  • C  
+## Target Roles
+- AI/ML Engineering Intern
+- Backend Engineer (AI Systems)
+- Computer Vision Engineer Intern
 
- **🤖 Domains:**  
-    • Artificial Intelligence  
-    • Machine Learning  
+## Featured Projects
 
-**Current Projects**  
+### 🛡️ VaultMind (Top 10 - Union Bank iDEA 2.0 Hackathon)
+AI-driven early warning system for internal and privileged-user fraud.
+- **Technical Implementation:** FastAPI, Apache Kafka, Graph Neural Networks, Isolation Forest, Redis, Docker.
+- **Result:** Achieved 5.9 ms median latency and 7.83 ms P95 latency for core scan endpoints across a 100-request benchmark.
+- **Repository:** [Link to your VaultMind Repo]
 
-**📂 Personal Portfolio:**  
+### 🚂 RailMind (Top 100 Global - FARAWAY Hackathon)
+Multi-agent railway safety and telemetry platform processing real-time data streams.
+- **Technical Implementation:** Kafka telemetry, Swin Transformer acoustic detection, GNN routing, PostgreSQL, GCP.
+- **Result:** Acoustic detection model achieved 0.94 precision and 0.91 recall.
+- **Repository:** [Link to your RailMind Repo]
 
-  - Description: Designing and building a portfolio to showcase my skills, projects, and achievements.  
- 
-  - Tools: [e.g., HTML, CSS, JavaScript, React].  
+### 🍎 Perishable Food Supply Chain CV System
+Fruit-freshness grading pipeline for industrial imaging conditions.
+- **Technical Implementation:** YOLOv11-Seg, ViT, Swin Transformer, ConvNeXt.
+- **Result:** 93.58% grading accuracy and 97.9% detection recall on evaluation dataset.
+- **Repository:** [Link to your CV Repo]
 
-**Goals**
+## Technical Stack
+- **AI/ML:** PyTorch, Scikit-learn, OpenCV, YOLO, Vision Transformers, GNNs
+- **Backend:** Python, FastAPI, REST APIs, Apache Kafka, WebSockets
+- **Database/Ops:** PostgreSQL, Redis, Docker, GCP, Git
 
-• 🏆 Secure a **paid internship** in the **AI/ML domain** as soon as possible to gain hands-on experience and contribute to impactful projects.  
-
-• 🌍 Build a portfolio of **innovative projects** that combine technology and societal impact.  
-
-**How to Reach Me** 
-
-• 📧 Email: parthdehare97@gmail.com
-
-• 📧 LinkedIn: //www.linkedin.com/in/parth-dehare-b91a53293/ 
-
-• 📧 GitHub: https://github.com/ParthDehare
-
+## Contact
+- **LinkedIn:** [Insert your updated LinkedIn URL]
+- **Email:** dehareparth@gmail.com
