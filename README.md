@@ -33,5 +33,5 @@ Fruit-freshness grading pipeline for industrial imaging conditions.
 - **Database/Ops:** PostgreSQL, Redis, Docker, GCP, Git
 
 ## Contact
-- **LinkedIn:** [Insert your updated LinkedIn URL]
+- **LinkedIn:** https://www.linkedin.com/in/parth-dehare/
 - **Email:** dehareparth@gmail.com
