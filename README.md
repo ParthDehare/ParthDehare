@@ -25,7 +25,7 @@ Multi-agent railway safety and telemetry platform processing real-time data stre
 Fruit-freshness grading pipeline for industrial imaging conditions.
 - **Technical Implementation:** YOLOv11-Seg, ViT, Swin Transformer, ConvNeXt.
 - **Result:** 93.58% grading accuracy and 97.9% detection recall on evaluation dataset.
-- **Repository:** https://github.com/Aru-14/Major_Project_G1
+- **Repository:** https://github.com/ParthDehare/Freshy
 
 ## Technical Stack
 - **AI/ML:** PyTorch, Scikit-learn, OpenCV, YOLO, Vision Transformers, GNNs
